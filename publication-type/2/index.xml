@@ -5,12 +5,20 @@
     <link>https://spozi.github.io/publication-type/2/</link>
       <atom:link href="https://spozi.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Syafiq</copyright><lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Syafiq</copyright><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spozi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://spozi.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Change-oriented Summarization of Temporal Scholarly Document Collections by Semantic Drift Analysis</title>
+      <link>https://spozi.github.io/publication/paharia-2021-changejournal/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/paharia-2021-changejournal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SVGPM: evolving SVM decision function by using genetic programming to solve imbalanced classification problem</title>
@@ -25,14 +33,6 @@
       <link>https://spozi.github.io/publication/pozi-20211011/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://spozi.github.io/publication/pozi-20211011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Change-oriented Summarization of Temporal Scholarly Document Collections by Semantic Drift Analysis</title>
-      <link>https://spozi.github.io/publication/paharia-2021-changejournal/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://spozi.github.io/publication/paharia-2021-changejournal/</guid>
       <description></description>
     </item>
     
