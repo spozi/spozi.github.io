@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning | Muhammad Syafiq Mohd Pozi</title>
+    <link>https://spozi.github.io/tag/machine-learning/</link>
+      <atom:link href="https://spozi.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Syafiq</copyright><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spozi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>machine learning</title>
+      <link>https://spozi.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://spozi.github.io/teaching/machine-learning/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/teaching/machine-learning/</guid>
+      <description>&lt;p&gt;The content of this course is such as follows:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

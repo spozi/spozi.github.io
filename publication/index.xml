@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Muhammad Syafiq Mohd Pozi</title>
+    <link>https://spozi.github.io/publication/</link>
+      <atom:link href="https://spozi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Syafiq</copyright><lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spozi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://spozi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>SVGPM: evolving SVM decision function by using genetic programming to solve imbalanced classification problem</title>
+      <link>https://spozi.github.io/publication/pozi-2021-svgpm/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2021-svgpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Malaysian scholar identification model based on word2vec-based-stylometry computational approach</title>
+      <link>https://spozi.github.io/publication/pozi-20211011/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-20211011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Summarization of Diachronic Scholarly Paper Collections by Semantic Evolution Analysis</title>
+      <link>https://spozi.github.io/publication/paharia-2021-changeconference/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/paharia-2021-changeconference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-oriented Summarization of Temporal Scholarly Document Collections by Semantic Drift Analysis</title>
+      <link>https://spozi.github.io/publication/paharia-2021-changejournal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/paharia-2021-changejournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kernel Density Estimation Method to Generate Synthetic Shifted Datasets in Privacy-Preserving Task</title>
+      <link>https://spozi.github.io/publication/mohd-2020-kernel/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2020-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Face Recognition Module For Video Content Analysis in Malaysian Parliament Sessions</title>
+      <link>https://spozi.github.io/publication/en-2020-face/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/en-2020-face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying the types of digital footprint data used to predict psychographic and human behaviour</title>
+      <link>https://spozi.github.io/publication/nawi-2020-identifying/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/nawi-2020-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Summarization of Scholarly Paper Collections by Semantic Change Estimation: Case Study of CORD-19 Dataset</title>
+      <link>https://spozi.github.io/publication/mohd-2020-temporal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2020-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locations &amp; languages: Towards multilingual user movement analysis in social media</title>
+      <link>https://spozi.github.io/publication/wang-2018-locations/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2018-locations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting next visited country of twitter users</title>
+      <link>https://spozi.github.io/publication/pozi-2018-predicting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2018-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving author editing history using blockchain technology</title>
+      <link>https://spozi.github.io/publication/mohd-2018-preserving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2018-preserving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shifting Dataset to Preserve Data Privacy</title>
+      <link>https://spozi.github.io/publication/pozi-2018-shifting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2018-shifting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding cross-cultural crowd sentiment using social media</title>
+      <link>https://spozi.github.io/publication/wang-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring cross-cultural crowd sentiments on Twitter</title>
+      <link>https://spozi.github.io/publication/wang-2017-exploring/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2017-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Classification Method in Handheld Based Smartphone Gait Identification</title>
+      <link>https://spozi.github.io/publication/raziff-2017-multiclass/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/raziff-2017-multiclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching Linguistic Borders: Mobility Analysis on Multilingual Microbloggers</title>
+      <link>https://spozi.github.io/publication/mohd-2017-sketching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2017-sketching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of spatio-temporal events in geo-tagged social media</title>
+      <link>https://spozi.github.io/publication/wang-2017-visualization/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2017-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NEW CLASSIFIER BASED ON COMBINATION OF GENETIC PROGRAMMING AND SUPPORT VECTOR MACHINE IN SOLVING IMBALANCED CLASSIFICATION PROBLEM</title>
+      <link>https://spozi.github.io/publication/pozi-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2016-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving anomalous rare attack detection rate for intrusion detection system using support vector machine and genetic programming</title>
+      <link>https://spozi.github.io/publication/pozi-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ツイート多言語分析に関する一検討</title>
+      <link>https://spozi.github.io/publication/%E5%B2%A1%E5%B1%B1%E6%84%9B-2016-%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%80%E6%A4%9C%E8%A8%8E/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/%E5%B2%A1%E5%B1%B1%E6%84%9B-2016-%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%80%E6%A4%9C%E8%A8%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new classification model for a class imbalanced data set using genetic programming and support vector machines: case study for wilt disease classification</title>
+      <link>https://spozi.github.io/publication/mohd-2015-new/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2015-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density ratio estimation in support vector machine for better generalization: study on direct marketing prediction</title>
+      <link>https://spozi.github.io/publication/pozi-2013-density/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2013-density/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

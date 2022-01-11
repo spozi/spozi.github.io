@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Syafiq Mohd Pozi</title>
+    <link>https://spozi.github.io/</link>
+      <atom:link href="https://spozi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muhammad Syafiq Mohd Pozi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Syafiq</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spozi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Muhammad Syafiq Mohd Pozi</title>
+      <link>https://spozi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://spozi.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Development of a System to Match Job with Past Scholarly Publications</title>
+      <link>https://spozi.github.io/project/job-matcher-uum/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/project/job-matcher-uum/</guid>
+      <description>&lt;p&gt;This project is a system to match job with academic staff by using past achievements or proven experiences. A pretrained Word2vec model is used to find the matching rate between the job and the academic staff.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Searching job by input term (e.g.: java)&lt;/li&gt;
+&lt;li&gt;Job list related with the inputted term will be listed out.&lt;/li&gt;
+&lt;li&gt;Show the job description by clicking the &amp;ldquo;🔽&amp;rdquo; button.&lt;/li&gt;
+&lt;li&gt;Sort job list by ascending or descending.&lt;/li&gt;
+&lt;li&gt;Match the job by clicking &amp;ldquo;Match&amp;rdquo; button.&lt;/li&gt;
+&lt;li&gt;Matching rate list between the selected job and acedemic staff will be listed out.&lt;/li&gt;
+&lt;li&gt;Sort matching rate list by matching rate.&lt;/li&gt;
+&lt;li&gt;Change the entries that will show the list in one page.&lt;/li&gt;
+&lt;li&gt;Search academic staff by inputting the name.&lt;/li&gt;
+&lt;li&gt;Redirect to the selected job by clicking the job name.&lt;/li&gt;
+&lt;li&gt;Redirect to the scopuslink of selected academic staff by clicking the academic staff name.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Developed by Ye Jin Loh.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://spozi.github.io/teaching/machine-learning/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/teaching/machine-learning/</guid>
+      <description>&lt;p&gt;The content of this course is such as follows:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SVGPM: evolving SVM decision function by using genetic programming to solve imbalanced classification problem</title>
+      <link>https://spozi.github.io/publication/pozi-2021-svgpm/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2021-svgpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Malaysian scholar identification model based on word2vec-based-stylometry computational approach</title>
+      <link>https://spozi.github.io/publication/pozi-20211011/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-20211011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change Summarization of Diachronic Scholarly Paper Collections by Semantic Evolution Analysis</title>
+      <link>https://spozi.github.io/publication/paharia-2021-changeconference/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/paharia-2021-changeconference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-oriented Summarization of Temporal Scholarly Document Collections by Semantic Drift Analysis</title>
+      <link>https://spozi.github.io/publication/paharia-2021-changejournal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/paharia-2021-changejournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Kernel Density Estimation Method to Generate Synthetic Shifted Datasets in Privacy-Preserving Task</title>
+      <link>https://spozi.github.io/publication/mohd-2020-kernel/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2020-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Face Recognition Module For Video Content Analysis in Malaysian Parliament Sessions</title>
+      <link>https://spozi.github.io/publication/en-2020-face/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/en-2020-face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying the types of digital footprint data used to predict psychographic and human behaviour</title>
+      <link>https://spozi.github.io/publication/nawi-2020-identifying/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/nawi-2020-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Summarization of Scholarly Paper Collections by Semantic Change Estimation: Case Study of CORD-19 Dataset</title>
+      <link>https://spozi.github.io/publication/mohd-2020-temporal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2020-temporal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://spozi.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locations &amp; languages: Towards multilingual user movement analysis in social media</title>
+      <link>https://spozi.github.io/publication/wang-2018-locations/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2018-locations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting next visited country of twitter users</title>
+      <link>https://spozi.github.io/publication/pozi-2018-predicting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2018-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving author editing history using blockchain technology</title>
+      <link>https://spozi.github.io/publication/mohd-2018-preserving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2018-preserving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shifting Dataset to Preserve Data Privacy</title>
+      <link>https://spozi.github.io/publication/pozi-2018-shifting/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2018-shifting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards understanding cross-cultural crowd sentiment using social media</title>
+      <link>https://spozi.github.io/publication/wang-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring cross-cultural crowd sentiments on Twitter</title>
+      <link>https://spozi.github.io/publication/wang-2017-exploring/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2017-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass Classification Method in Handheld Based Smartphone Gait Identification</title>
+      <link>https://spozi.github.io/publication/raziff-2017-multiclass/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/raziff-2017-multiclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching Linguistic Borders: Mobility Analysis on Multilingual Microbloggers</title>
+      <link>https://spozi.github.io/publication/mohd-2017-sketching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2017-sketching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of spatio-temporal events in geo-tagged social media</title>
+      <link>https://spozi.github.io/publication/wang-2017-visualization/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/wang-2017-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NEW CLASSIFIER BASED ON COMBINATION OF GENETIC PROGRAMMING AND SUPPORT VECTOR MACHINE IN SOLVING IMBALANCED CLASSIFICATION PROBLEM</title>
+      <link>https://spozi.github.io/publication/pozi-2016-new/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2016-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving anomalous rare attack detection rate for intrusion detection system using support vector machine and genetic programming</title>
+      <link>https://spozi.github.io/publication/pozi-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ツイート多言語分析に関する一検討</title>
+      <link>https://spozi.github.io/publication/%E5%B2%A1%E5%B1%B1%E6%84%9B-2016-%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%80%E6%A4%9C%E8%A8%8E/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/%E5%B2%A1%E5%B1%B1%E6%84%9B-2016-%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%B8%80%E6%A4%9C%E8%A8%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new classification model for a class imbalanced data set using genetic programming and support vector machines: case study for wilt disease classification</title>
+      <link>https://spozi.github.io/publication/mohd-2015-new/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/mohd-2015-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density ratio estimation in support vector machine for better generalization: study on direct marketing prediction</title>
+      <link>https://spozi.github.io/publication/pozi-2013-density/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/publication/pozi-2013-density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spozi.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

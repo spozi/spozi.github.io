@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Word Embedding | Muhammad Syafiq Mohd Pozi</title>
+    <link>https://spozi.github.io/tag/word-embedding/</link>
+      <atom:link href="https://spozi.github.io/tag/word-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Word Embedding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Syafiq</copyright><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spozi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Word Embedding</title>
+      <link>https://spozi.github.io/tag/word-embedding/</link>
+    </image>
+    
+    <item>
+      <title>A Development of a System to Match Job with Past Scholarly Publications</title>
+      <link>https://spozi.github.io/project/job-matcher-uum/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://spozi.github.io/project/job-matcher-uum/</guid>
+      <description>&lt;p&gt;This project is a system to match job with academic staff by using past achievements or proven experiences. A pretrained Word2vec model is used to find the matching rate between the job and the academic staff.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Searching job by input term (e.g.: java)&lt;/li&gt;
+&lt;li&gt;Job list related with the inputted term will be listed out.&lt;/li&gt;
+&lt;li&gt;Show the job description by clicking the &amp;ldquo;🔽&amp;rdquo; button.&lt;/li&gt;
+&lt;li&gt;Sort job list by ascending or descending.&lt;/li&gt;
+&lt;li&gt;Match the job by clicking &amp;ldquo;Match&amp;rdquo; button.&lt;/li&gt;
+&lt;li&gt;Matching rate list between the selected job and acedemic staff will be listed out.&lt;/li&gt;
+&lt;li&gt;Sort matching rate list by matching rate.&lt;/li&gt;
+&lt;li&gt;Change the entries that will show the list in one page.&lt;/li&gt;
+&lt;li&gt;Search academic staff by inputting the name.&lt;/li&gt;
+&lt;li&gt;Redirect to the selected job by clicking the job name.&lt;/li&gt;
+&lt;li&gt;Redirect to the scopuslink of selected academic staff by clicking the academic staff name.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Developed by Ye Jin Loh.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
